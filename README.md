@@ -1,2 +1,1 @@
-# arjuncr.github.io
-tutorials
+Operating system development tutorials 
